@@ -1,0 +1,254 @@
+[
+  {
+    "disabled": false,
+    "full_name": "Dadar",
+    "user_name": "sw_dadar",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-tiss",
+    "position": "",
+    "location": "400014",
+    "role_ids": [
+      "role-social-worker-maharashtra"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cell-activities",
+      "primeromodule-intervention"
+    ],
+    "user_group_ids": [
+      "usergroup-tiss"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-03T13:26:11.417Z",
+    "created_at": "2019-07-01T10:05:06.990Z",
+    "model_type": "User",
+    "_id": "user-sw-dadar"
+  },
+  {
+    "disabled": false,
+    "full_name": "Dadar",
+    "user_name": "sw_dadar_2",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-tiss",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-social-worker-maharashtra"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cell-activities",
+      "primeromodule-intervention"
+    ],
+    "user_group_ids": [
+      "usergroup-tiss"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-05T06:34:12.032Z",
+    "created_at": "2019-07-05T06:34:12.032Z",
+    "model_type": "User",
+    "_id": "user-sw-dadar-2"
+  },
+  {
+    "disabled": false,
+    "full_name": "Malviya Nagar ",
+    "user_name": "nmalviya_sw",
+    "verified": true,
+    "code": "HQ",
+    "phone": "",
+    "email": "",
+    "organization": "agency-tiss",
+    "position": "",
+    "location": "110017",
+    "role_ids": [
+      "role-social-worker-delhi"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-activity",
+      "primeromodule-inter"
+    ],
+    "user_group_ids": [
+      "usergroup-tiss"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "agency_office_1",
+    "updated_at": "2019-07-05T10:24:57.291Z",
+    "created_at": "2019-06-27T09:13:18.693Z",
+    "model_type": "User",
+    "_id": "user-nmalviya-sw"
+  },
+  {
+    "disabled": false,
+    "full_name": "Malviya Nagar ",
+    "user_name": "nmalviya_sw2",
+    "verified": true,
+    "code": "HQ",
+    "phone": "",
+    "email": "",
+    "organization": "agency-tiss",
+    "position": "",
+    "location": "110017",
+    "role_ids": [
+      "role-social-worker-delhi"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-activity",
+      "primeromodule-inter"
+    ],
+    "user_group_ids": [
+      "usergroup-tiss"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "agency_office_1",
+    "updated_at": "2019-07-05T10:25:11.372Z",
+    "created_at": "2019-07-04T09:08:09.604Z",
+    "model_type": "User",
+    "_id": "user-nmalviya-sw2"
+  },
+  {
+    "disabled": false,
+    "full_name": "Sabji Mandi",
+    "user_name": "smandi_sw",
+    "verified": true,
+    "code": "ND",
+    "phone": "",
+    "email": "",
+    "organization": "agency-tiss",
+    "position": "",
+    "location": "110007",
+    "role_ids": [
+      "role-social-worker-delhi"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-activity",
+      "primeromodule-inter"
+    ],
+    "user_group_ids": [
+      "usergroup-tiss"
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-05T10:25:19.402Z",
+    "created_at": "2019-07-01T06:35:11.416Z",
+    "model_type": "User",
+    "_id": "user-smandi-sw"
+  },
+  {
+    "disabled": false,
+    "full_name": "SW Kurla",
+    "user_name": "sw_kurla",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-0215",
+    "position": "",
+    "location": "400070",
+    "role_ids": [
+      "role-social-worker-maharashtra"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cell-activities",
+      "primeromodule-intervention"
+    ],
+    "user_group_ids": [
+
+    ],
+    "is_manager": false,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-03T13:26:45.600Z",
+    "created_at": "2019-07-01T12:32:29.348Z",
+    "model_type": "User",
+    "_id": "user-sw-kurla"
+  },
+  {
+    "disabled": false,
+    "full_name": "System Superuser",
+    "user_name": "primero",
+    "verified": true,
+    "code": null,
+    "phone": null,
+    "email": "primero@primero.com",
+    "organization": "agency-unicef",
+    "position": null,
+    "location": null,
+    "role_ids": [
+      "role-superuser"
+    ],
+    "time_zone": "UTC",
+    "locale": "en",
+    "module_ids": [
+      "primeromodule-cp",
+      "primeromodule-gbv"
+    ],
+    "user_group_ids": [
+      "usergroup-primero-cp",
+      "usergroup-primero-ftr",
+      "usergroup-primero-gbv"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": null,
+    "updated_at": "2019-06-24T12:07:43.339Z",
+    "created_at": "2019-06-24T12:07:43.339Z",
+    "model_type": "User",
+    "_id": "user-primero"
+  },
+  {
+    "disabled": false,
+    "full_name": "Tiss Manager",
+    "user_name": "tiss_scc",
+    "verified": true,
+    "code": "",
+    "phone": "",
+    "email": "",
+    "organization": "agency-tiss",
+    "position": "",
+    "location": "",
+    "role_ids": [
+      "role-manager-tiss"
+    ],
+    "time_zone": "UTC",
+    "locale": null,
+    "module_ids": [
+      "primeromodule-cell-activities",
+      "primeromodule-cp",
+      "primeromodule-gbv",
+      "primeromodule-intervention"
+    ],
+    "user_group_ids": [
+      "usergroup-tiss"
+    ],
+    "is_manager": true,
+    "send_mail": true,
+    "agency_office": "",
+    "updated_at": "2019-07-05T07:27:09.636Z",
+    "created_at": "2019-06-27T08:49:51.208Z",
+    "model_type": "User",
+    "_id": "user-tiss-scc"
+  }
+]
